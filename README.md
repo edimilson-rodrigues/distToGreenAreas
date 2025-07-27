@@ -39,8 +39,8 @@ This layer is obtained within Google Earth Engine.
 	Obs. For the case of São Paulo municipality, which the number of census tracts makes the memory been exceed during the calculation, the process is divided in tiles.
 - The results are then merged and analysed externally.
 <br>
-Here is the code we used: <br>
-- For all municipalities: [distToGreen.js](codes/distToGreen.js) <br>
+Here are the codes we used: <br>
+- For all municipalities: [distToGreen.js](codes/distToGreen.js)
 - For São Paulo municipality: [distToGreen_sp.js](codes/distToGreen_sp.js)
 
 ## [5] Analysing the results
