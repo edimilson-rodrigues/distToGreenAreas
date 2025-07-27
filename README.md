@@ -44,4 +44,6 @@ Here is the code we used:
 - For São Paulo municipality: [distToGreen_sp.js](codes/distToGreen_sp.js)
 
 ## [5] Analysing the results
-We provided a Google Colab to analyse the results. Check it [here](https://colab.research.google.com/drive/1FhXUXSK_eeZ9YhH79mLUm2WFbkbAy3k2#scrollTo=TerFJQ6sHZ5s).
+We provided a Google Colab to analyse the results. Check it [here](https://colab.research.google.com/drive/1FhXUXSK_eeZ9YhH79mLUm2WFbkbAy3k2#scrollTo=TerFJQ6sHZ5s).<br>
+There you can find instructions to get the results for your municipality. <br>
+<img src="https://drive.google.com/uc?id=1jUbRobWK44NZMjJ34btADciirWbgz-rI">
