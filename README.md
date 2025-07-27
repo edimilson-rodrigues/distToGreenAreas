@@ -1,5 +1,5 @@
 # 🌿 distToGreenAreas
-Codes developed to analyse the access (distance) to green areas in urban areas of São Paulo state. The data is related to the project [UrbVerde] (https://urbverde.iau.usp.br/)
+Codes developed to analyse the access (distance) to green areas in urban areas of São Paulo state. The data is related to the project [UrbVerde](https://urbverde.iau.usp.br/)
 
 # Obtaining the layers used to calculate the distance to green areas
 [1] Urban census tracts
