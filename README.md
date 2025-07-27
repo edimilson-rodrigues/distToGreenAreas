@@ -38,8 +38,8 @@ This layer is obtained within Google Earth Engine.
 -  All the results are saved as a property of each census tract centroid and exported as an asset.
 	Obs. For the case of São Paulo municipality, which the number of census tracts makes the memory been exceed during the calculation, the process is divided in tiles.
 - The results are then merged and analysed externally.
-<br>
-Here are the codes we used: <br>
+
+Here are the codes we used:
 - For all municipalities: [distToGreen.js](codes/distToGreen.js)
 - For São Paulo municipality: [distToGreen_sp.js](codes/distToGreen_sp.js)
 
