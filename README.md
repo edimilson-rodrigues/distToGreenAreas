@@ -40,7 +40,7 @@ This layer is obtained within Google Earth Engine.
 - The results are then merged and analysed externally.
 <br>
 Here is the code we used: 
-- For all municipalities: [distToGreen.js](codes/distToGreen.js)
+- For all municipalities: [distToGreen.js](codes/distToGreen.js) <br>
 - For São Paulo municipality: [distToGreen_sp.js](codes/distToGreen_sp.js)
 
 ## [5] Analysing the results
